@@ -1,0 +1,21 @@
+{
+  "name": "swiftshare-frontend",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "svelte": "^3.37.0",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.4.4"
+  },
+  "dependencies": {
+    "downloadjs": "^1.4.7",
+    "slocation": "^1.1.0"
+  }
+}
